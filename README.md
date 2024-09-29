@@ -30,24 +30,14 @@ Welcome to MedFusion: Revolutionizing Healthcare with Multimodal Generative AI, 
 
 
 ### Screenshots
-<div align="center">
-    <img src="screenshots/home_page.png" alt="Home Page" width="380" height="225">
-    <img src="screenshots/symptom_analysis.png" alt="Symptom Analysis" width="380" height="225">
-</div>
-<div align="center">
-    <img src="screenshots/analysis_result.png" alt="Analysis Result" width="380" height="225">
-    <img src="screenshots/ai_consultation.png" alt="AI Consultation" width="380" height="225">
-</div>
-<div align="center">
-    <img src="screenshots/mind_bot.png" alt="Mind-Bot" width="380" height="225">
-    <img src="screenshots/mind_bot_response.png" alt="Mind-Bot Response" width="380" height="225">
-</div>
-<div align="center">
-    <img src="screenshots/consult_doctor.png" alt="Consult Doctor" width="380" height="225">
-    <img src="screenshots/doctor_appointment.png" alt="Doctor Appointment" width="380" height="225">
-</div>
 
+![Screenshot (845)](https://github.com/user-attachments/assets/79ede9c0-f868-4a4a-b70d-4e2b232e695d)
 
+![Screenshot (846)](https://github.com/user-attachments/assets/1436d311-43d2-422b-b188-7722cdccb47c)
+
+![Screenshot (847)](https://github.com/user-attachments/assets/f08e0e11-3d8c-47e8-965a-53c915175266)
+
+![Screenshot (848)](https://github.com/user-attachments/assets/c703b8ea-a570-4af0-aa5d-36e49068e934)
 
 
 ## Technologies Used
@@ -217,11 +207,3 @@ Click [here](https://neuro-lift.vercel.app/) to visit the web app directly.
 - **Personalization and Customization:** Tailor content to individual preferences for better engagement.
 - **Comprehensive Data Security:** Strengthen privacy measures for user trust and compliance.
 - **Implement Proper Booking System:** Develop a robust booking system leveraging real healthcare database for streamlined appointment scheduling.
-
-
-
-
-## References
-
-
-- Link to Dataset: https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning
