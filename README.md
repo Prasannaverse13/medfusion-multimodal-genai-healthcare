@@ -1,12 +1,5 @@
 # MedFusion: Revolutionizing Healthcare with Multimodal Generative AI
 
-
-  <br>
-  <p align="center">
-    <img src="screenshots/logo.png" alt="Neuro Lift" width="170" height="80">
-  </p>
-
-
 Welcome to MedFusion: Revolutionizing Healthcare with Multimodal Generative AI, an AI-powered medical assistant web app designed to provide personalised healthcare recommendations, connect users with specialists, and offer mental health support. Leveraging advanced technologies like Machine Learning and Generative AI, my goal is to empower individuals to make informed healthcare decisions and enhance their well-being.
 
 
