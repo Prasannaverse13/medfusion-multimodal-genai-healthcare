@@ -10,12 +10,6 @@ Welcome to MedFusion: Revolutionizing Healthcare with Multimodal Generative AI, 
 
 ## Key Features
 
-<br>
-<p align="center">
-    <img src="screenshots/hero.png" alt="Key Features" width="150" height="150">
-</p>
-
-
 - **Symptom Analysis:** Predict diseases from symptoms using ML model, guiding users to specialist doctors and offering AI-driven recommendations.
 
 
