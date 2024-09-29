@@ -1,4 +1,5 @@
-# NeuroLift: A Medical Assistant
+# MedFusion: Revolutionizing Healthcare with Multimodal Generative AI
+
 
   <br>
   <p align="center">
@@ -6,7 +7,7 @@
   </p>
 
 
-Welcome to NeuroLift, an AI-powered medical assistant web app designed to provide personalised healthcare recommendations, connect users with specialists, and offer mental health support. Leveraging advanced technologies like Machine Learning and Generative AI, my goal is to empower individuals to make informed healthcare decisions and enhance their well-being.
+Welcome to MedFusion: Revolutionizing Healthcare with Multimodal Generative AI, an AI-powered medical assistant web app designed to provide personalised healthcare recommendations, connect users with specialists, and offer mental health support. Leveraging advanced technologies like Machine Learning and Generative AI, my goal is to empower individuals to make informed healthcare decisions and enhance their well-being.
 
 
 ## Web App Link
@@ -82,9 +83,9 @@ Welcome to NeuroLift, an AI-powered medical assistant web app designed to provid
     <img src="screenshots/architecture.jpg" alt="Architecture"  width="600" height="329">
 </p>
 
-NeuroLift offers a comprehensive healthcare solution by leveraging modern technologies and user-friendly design principles. The architecture is built around three main divisions:
+MedFusion: Revolutionizing Healthcare with Multimodal Generative AI offers a comprehensive healthcare solution by leveraging modern technologies and user-friendly design principles. The architecture is built around three main divisions:
 
-1. **Symptom Analysis:** NeuroLift diagnoses diseases based on symptoms using a Flask API connected to a trained ML model. The predicted disease is received as a response from the API, and then it guides users to the appropriate specialist doctor for further consultation. Additionally, there's an AI-driven chatbot, developed using the Gemini API, which offers preliminary suggestions based on the symptoms and disease.
+1. **Symptom Analysis:** MedFusion: Revolutionizing Healthcare with Multimodal Generative AI diagnoses diseases based on symptoms using a Flask API connected to a trained ML model. The predicted disease is received as a response from the API, and then it guides users to the appropriate specialist doctor for further consultation. Additionally, there's an AI-driven chatbot, developed using the Gemini API, which offers preliminary suggestions based on the symptoms and disease.
 
 2. **Mind-Bot:** To address mental health concerns, I developed a chat application powered by the Gemini API from Google AI Studio. The Gemini 1.5 pro model is feeded with system instructions and trained with some conversations to provide empathetic consultations. This chatbot provides support for mental health issues like loneliness and anxiety and also offers suggestions on how to handle them effectively.
 
